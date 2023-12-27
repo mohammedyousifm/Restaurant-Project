@@ -1,2 +1,6 @@
 # restaurant-project
-this project restaurant the first project i have development 
+# html / css
+
+# demo 
+
+![Demo Image](reashome.png)
