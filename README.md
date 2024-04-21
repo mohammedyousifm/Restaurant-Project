@@ -2,6 +2,10 @@
 
 This project is a simple restaurant website built using HTML and CSS. It is designed to showcase the menu, services, and other relevant information about the restaurant.
 
+## Link to the project
+
+-[https://restaurant-1-project.netlify.app/]
+
 ## Table of Contents
 
 - [Name](#mohammed)
