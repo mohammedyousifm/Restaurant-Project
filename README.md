@@ -4,6 +4,7 @@ This project is a simple restaurant website built using HTML and CSS. It is desi
 
 ## Table of Contents
 
+- [Name](#mohammed)
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -24,4 +25,3 @@ This project is a simple restaurant website built using HTML and CSS. It is desi
 
 - HTML
 - CSS
-
